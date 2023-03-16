@@ -1,4 +1,4 @@
-package com.eoi.paradigmasPOO;
+package com.eoi.paradigmaspoo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
